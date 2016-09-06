@@ -1,3 +1,8 @@
+
+原文: https://github.com/PromeYang/fe-guide/blob/master/html-guide.md
+
+注：部分规范有删改
+
 # HTML Guide
 
 ---
